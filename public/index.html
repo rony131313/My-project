@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>67</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="icon" type="image/svg+xml" href="./logo-67.svg" />
+  </head>
+
+  <body>
+    <header class="topbar">
+      <div class="container topbar__inner">
+        <a class="brand" href="#/">
+          <div class="brand__logo" aria-hidden="true">
+            <img class="brand__logoImg" src="./logo-67.svg" alt="67" />
+          </div>
+        </a>
+
+        <div class="topbar__actions">
+          <div class="lang">
+            <button class="chip" id="langRu" type="button">RU</button>
+            <button class="chip" id="langEn" type="button">EN</button>
+          </div>
+
+          <a class="btn btn--primary cartBtn" href="#/cart" title="Корзина">
+            🛒 <span id="cartText">Корзина</span>
+            <span class="badge" id="cartCount">0</span>
+          </a>
+        </div>
+      </div>
+    </header>
+
+    <!-- ✅ Здесь только app. Категории будут рисоваться внутри app через renderCatalog() -->
+    <!-- ВАЖНО: добавлен класс page -->
+    <main class="container page">
+      <!-- СНАЧАЛА категории -->
+      <!-- потом app -->
+      <div id="app"></div>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer__inner">
+        <div>
+          <a href="#/admin" class="footer__admin">Админ-панель</a>
+
+          <div class="footer__muted" id="footerMuted">
+            Доставка продуктов • Быстро • Удобно
+          </div>
+        </div>
+        <div class="footer__muted">© <span id="year"></span></div>
+      </div>
+    </footer>
+
+    <!-- Нижняя навигация (фиксированная, в конце body) -->
+    <nav class="bottomNav">
+      <a href="#/" id="bnHome">🏠</a>
+      <a href="#/cart" id="bnCart">🛒</a>
+      <a href="#/checkout" id="bnCheckout">✅</a>
+      <a href="#/orders" id="bnOrders">📦</a>
+    </nav>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

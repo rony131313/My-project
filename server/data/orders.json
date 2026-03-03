@@ -1,0 +1,1604 @@
+[
+  {
+    "id": "DNMK3SGPW022EB",
+    "status": "DONE",
+    "createdAt": "2026-01-07T09:01:04.656Z",
+    "updatedAt": "2026-01-07T09:01:33.466Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 58
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK120ZC7B3B5",
+    "status": "PICKING",
+    "createdAt": "2026-01-05T11:05:28.039Z",
+    "updatedAt": "2026-01-05T11:05:37.673Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "croissant",
+        "name_ru": "Круассан",
+        "name_en": "Croissant",
+        "desc_ru": "1 шт",
+        "desc_en": "1 pc",
+        "price": 79,
+        "cat_ru": "Выпечка",
+        "cat_en": "Bakery",
+        "emoji": "🥐",
+        "hot": true,
+        "popular": 84,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 79,
+      "deliveryFee": 149,
+      "grandTotal": 228
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 48
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK11YF1XA032",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T11:03:28.437Z",
+    "updatedAt": "2026-01-05T11:03:31.497Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 46
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK11X3TX0C26",
+    "status": "PICKING",
+    "createdAt": "2026-01-05T11:02:27.237Z",
+    "updatedAt": "2026-01-05T11:02:37.602Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 44
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK11W45MA39F",
+    "status": "PICKING",
+    "createdAt": "2026-01-05T11:01:41.002Z",
+    "updatedAt": "2026-01-05T11:01:51.173Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 42
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK11J7NF2D46",
+    "status": "DONE",
+    "createdAt": "2026-01-05T10:51:39.003Z",
+    "updatedAt": "2026-01-05T10:54:07.673Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "chips",
+        "name_ru": "Чипсы",
+        "name_en": "Chips",
+        "desc_ru": "150 г",
+        "desc_en": "150g",
+        "price": 129,
+        "cat_ru": "Снеки",
+        "cat_en": "Snacks",
+        "emoji": "🍟",
+        "hot": true,
+        "popular": 92,
+        "qty": 1
+      },
+      {
+        "id": "choco",
+        "name_ru": "Шоколад",
+        "name_en": "Chocolate",
+        "desc_ru": "80 г",
+        "desc_en": "80g",
+        "price": 129,
+        "cat_ru": "Снеки",
+        "cat_en": "Snacks",
+        "emoji": "🍫",
+        "hot": true,
+        "popular": 89,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 457,
+      "deliveryFee": 149,
+      "grandTotal": 606
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 40
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK0QVNCT76E2",
+    "status": "NEW",
+    "createdAt": "2026-01-05T05:53:23.453Z",
+    "updatedAt": "2026-01-05T05:53:23.453Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 25
+      }
+    }
+  },
+  {
+    "id": "DNMK0QLSCY7399",
+    "status": "NEW",
+    "createdAt": "2026-01-05T05:45:43.378Z",
+    "updatedAt": "2026-01-05T05:45:43.378Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 24
+      }
+    }
+  },
+  {
+    "id": "DNMK0QIWOS60E9",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T05:43:29.020Z",
+    "updatedAt": "2026-01-05T05:44:07.637Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "cash",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 23
+      }
+    }
+  },
+  {
+    "id": "DNMK0PNKLWB324",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T05:19:07.028Z",
+    "updatedAt": "2026-01-05T05:22:20.278Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 22
+      }
+    }
+  },
+  {
+    "id": "DNMK0PHUNY0D90",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T05:14:40.126Z",
+    "updatedAt": "2026-01-05T05:14:42.307Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 21
+      }
+    }
+  },
+  {
+    "id": "DNMK0PHGLYAA28",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T05:14:21.910Z",
+    "updatedAt": "2026-01-05T05:14:30.942Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 20
+      }
+    }
+  },
+  {
+    "id": "DNMK0P1B5R4A08",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T05:01:48.351Z",
+    "updatedAt": "2026-01-05T05:01:53.905Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "cash",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 19
+      }
+    }
+  },
+  {
+    "id": "DNMK0OYI9063F9",
+    "status": "PICKING",
+    "createdAt": "2026-01-05T04:59:37.572Z",
+    "updatedAt": "2026-01-05T05:00:06.359Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 18
+      }
+    }
+  },
+  {
+    "id": "DNMK0OQ5U04CBD",
+    "status": "NEW",
+    "createdAt": "2026-01-05T04:53:08.232Z",
+    "updatedAt": "2026-01-05T04:53:08.232Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 17
+      }
+    }
+  },
+  {
+    "id": "DNMK0OJ6S534B5",
+    "status": "PICKING",
+    "createdAt": "2026-01-05T04:47:42.869Z",
+    "updatedAt": "2026-01-05T04:51:02.565Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 16
+      }
+    }
+  },
+  {
+    "id": "DNMK0O70520C73",
+    "status": "PICKING",
+    "createdAt": "2026-01-05T04:38:14.390Z",
+    "updatedAt": "2026-01-05T04:38:31.748Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 15
+      }
+    }
+  },
+  {
+    "id": "DNMK0NEUI28575",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-05T04:16:20.714Z",
+    "updatedAt": "2026-01-05T04:16:36.167Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 14
+      }
+    }
+  },
+  {
+    "id": "DNMJZI3U978EEF",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-04T09:00:02.923Z",
+    "updatedAt": "2026-01-04T09:30:17.927Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 12
+      }
+    }
+  },
+  {
+    "id": "DNMJZHRR647008",
+    "status": "CANCELED",
+    "createdAt": "2026-01-04T08:50:39.052Z",
+    "updatedAt": "2026-01-04T09:00:15.478Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 11
+      }
+    }
+  },
+  {
+    "id": "DNMJZHKCEU0FFE",
+    "status": "NEW",
+    "createdAt": "2026-01-04T08:44:53.334Z",
+    "updatedAt": "2026-01-04T08:44:53.334Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": ""
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 10
+      }
+    }
+  },
+  {
+    "id": "DNMJZHGI78A67A",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-04T08:41:54.212Z",
+    "updatedAt": "2026-01-04T08:44:41.584Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "cash",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 8
+      }
+    }
+  },
+  {
+    "id": "DNMJZHEC6E6CC2",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-04T08:40:13.094Z",
+    "updatedAt": "2026-01-04T08:43:36.173Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "ffrff"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 7
+      }
+    }
+  },
+  {
+    "id": "DNMJZGOWL01612",
+    "status": "NEW",
+    "createdAt": "2026-01-04T08:20:26.484Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "ggfg"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    }
+  },
+  {
+    "id": "DNMJZGER9D2EDC",
+    "status": "NEW",
+    "createdAt": "2026-01-04T08:12:33.025Z",
+    "updatedAt": "2026-01-04T08:12:33.025Z",
+    "lang": "ru",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет",
+      "zoneName_ru": "Центр",
+      "zoneName_en": "Center"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 567,
+      "deliveryFee": 149,
+      "grandTotal": 716
+    },
+    "meta": {
+      "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36"
+    }
+  }
+]

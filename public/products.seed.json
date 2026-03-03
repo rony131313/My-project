@@ -1,0 +1,22 @@
+[
+  {"id":"milk","name_ru":"Молоко 3.2%","name_en":"Milk 3.2%","desc_ru":"1 л, свежее","desc_en":"1L, fresh","price":109,"cat_ru":"Молочка","cat_en":"Dairy","emoji":"🥛","hot":true,"popular":98},
+  {"id":"kefir","name_ru":"Кефир","name_en":"Kefir","desc_ru":"1 л","desc_en":"1L","price":99,"cat_ru":"Молочка","cat_en":"Dairy","emoji":"🧴","hot":false,"popular":78},
+  {"id":"cheese","name_ru":"Сыр","name_en":"Cheese","desc_ru":"200 г","desc_en":"200g","price":259,"cat_ru":"Молочка","cat_en":"Dairy","emoji":"🧀","hot":true,"popular":88},
+
+  {"id":"bread","name_ru":"Хлеб","name_en":"Bread","desc_ru":"пшеничный, 350 г","desc_en":"wheat, 350g","price":69,"cat_ru":"Выпечка","cat_en":"Bakery","emoji":"🍞","hot":false,"popular":90},
+  {"id":"croissant","name_ru":"Круассан","name_en":"Croissant","desc_ru":"1 шт","desc_en":"1 pc","price":79,"cat_ru":"Выпечка","cat_en":"Bakery","emoji":"🥐","hot":true,"popular":84},
+
+  {"id":"avocado","name_ru":"Авокадо Hass","name_en":"Avocado Hass","desc_ru":"2 шт","desc_en":"2 pcs","price":199,"cat_ru":"Фрукты","cat_en":"Fruits","emoji":"🥑","hot":true,"popular":95},
+  {"id":"banana","name_ru":"Бананы","name_en":"Bananas","desc_ru":"1 кг","desc_en":"1 kg","price":159,"cat_ru":"Фрукты","cat_en":"Fruits","emoji":"🍌","hot":false,"popular":80},
+  {"id":"apple","name_ru":"Яблоки","name_en":"Apples","desc_ru":"1 кг","desc_en":"1 kg","price":139,"cat_ru":"Фрукты","cat_en":"Fruits","emoji":"🍏","hot":false,"popular":76},
+
+  {"id":"tomato","name_ru":"Помидоры","name_en":"Tomatoes","desc_ru":"1 кг","desc_en":"1 kg","price":189,"cat_ru":"Овощи","cat_en":"Vegetables","emoji":"🍅","hot":false,"popular":83},
+  {"id":"cucumber","name_ru":"Огурцы","name_en":"Cucumbers","desc_ru":"1 кг","desc_en":"1 kg","price":169,"cat_ru":"Овощи","cat_en":"Vegetables","emoji":"🥒","hot":false,"popular":79},
+
+  {"id":"cola","name_ru":"Кола","name_en":"Cola","desc_ru":"1 л","desc_en":"1L","price":119,"cat_ru":"Напитки","cat_en":"Drinks","emoji":"🥤","hot":true,"popular":86},
+  {"id":"water","name_ru":"Вода","name_en":"Water","desc_ru":"1.5 л","desc_en":"1.5L","price":69,"cat_ru":"Напитки","cat_en":"Drinks","emoji":"💧","hot":false,"popular":72},
+
+  {"id":"chips","name_ru":"Чипсы","name_en":"Chips","desc_ru":"150 г","desc_en":"150g","price":129,"cat_ru":"Снеки","cat_en":"Snacks","emoji":"🍟","hot":true,"popular":92},
+  {"id":"choco","name_ru":"Шоколад","name_en":"Chocolate","desc_ru":"80 г","desc_en":"80g","price":129,"cat_ru":"Снеки","cat_en":"Snacks","emoji":"🍫","hot":true,"popular":89}
+  
+]

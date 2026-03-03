@@ -1,0 +1,533 @@
+[
+  {
+    "id": "DNMK5SDFMG875E",
+    "status": "DONE",
+    "createdAt": "2026-01-08T18:34:03.736Z",
+    "updatedAt": "2026-01-08T19:37:48.989Z",
+    "customer": {
+      "name": "Лл",
+      "phone": "Роо",
+      "address": "Ит",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "Ооол"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "image": "",
+        "icon3d": "",
+        "qty": 2
+      },
+      {
+        "id": "banana",
+        "name_ru": "Бананы",
+        "name_en": "Bananas",
+        "desc_ru": "1 кг",
+        "desc_en": "1 kg",
+        "price": 159,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🍌",
+        "hot": false,
+        "popular": 80,
+        "image": "",
+        "icon3d": "",
+        "qty": 1
+      },
+      {
+        "id": "kefir",
+        "name_ru": "Кефир",
+        "name_en": "Kefir",
+        "desc_ru": "1 л",
+        "desc_en": "1L",
+        "price": 99,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧴",
+        "hot": false,
+        "popular": 78,
+        "image": "",
+        "icon3d": "",
+        "qty": 1
+      },
+      {
+        "id": "cola",
+        "name_ru": "Кола",
+        "name_en": "Cola",
+        "desc_ru": "1 л",
+        "desc_en": "1L",
+        "price": 119,
+        "cat_ru": "Напитки",
+        "cat_en": "Drinks",
+        "emoji": "🥤",
+        "hot": true,
+        "popular": 86,
+        "image": "",
+        "icon3d": "",
+        "qty": 2
+      },
+      {
+        "id": "croissant",
+        "name_ru": "Круассан",
+        "name_en": "Croissant",
+        "desc_ru": "1 шт",
+        "desc_en": "1 pc",
+        "price": 79,
+        "cat_ru": "Выпечка",
+        "cat_en": "Bakery",
+        "emoji": "🥐",
+        "hot": true,
+        "popular": 84,
+        "image": "",
+        "icon3d": "",
+        "qty": 3
+      },
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "image": "",
+        "icon3d": "",
+        "qty": 2
+      },
+      {
+        "id": "tomato",
+        "name_ru": "Помидоры",
+        "name_en": "Tomatoes",
+        "desc_ru": "1 кг",
+        "desc_en": "1 kg",
+        "price": 189,
+        "cat_ru": "Овощи",
+        "cat_en": "Vegetables",
+        "emoji": "🍅",
+        "hot": false,
+        "popular": 83,
+        "image": "",
+        "icon3d": "",
+        "qty": 1
+      },
+      {
+        "id": "cheese",
+        "name_ru": "Сыр",
+        "name_en": "Cheese",
+        "desc_ru": "200 г",
+        "desc_en": "200g",
+        "price": 259,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🧀",
+        "hot": true,
+        "popular": 88,
+        "image": "",
+        "icon3d": "",
+        "qty": 2
+      },
+      {
+        "id": "bread",
+        "name_ru": "Хлеб",
+        "name_en": "Bread",
+        "desc_ru": "пшеничный, 350 г",
+        "desc_en": "wheat, 350g",
+        "price": 69,
+        "cat_ru": "Выпечка",
+        "cat_en": "Bakery",
+        "emoji": "🍞",
+        "hot": false,
+        "popular": 90,
+        "image": "",
+        "icon3d": "",
+        "qty": 2
+      },
+      {
+        "id": "chips",
+        "name_ru": "Чипсы",
+        "name_en": "Chips",
+        "desc_ru": "150 г",
+        "desc_en": "150g",
+        "price": 129,
+        "cat_ru": "Снеки",
+        "cat_en": "Snacks",
+        "emoji": "🍟",
+        "hot": true,
+        "popular": 92,
+        "image": "",
+        "icon3d": "",
+        "qty": 3
+      },
+      {
+        "id": "choco",
+        "name_ru": "Шоколад",
+        "name_en": "Chocolate",
+        "desc_ru": "80 г",
+        "desc_en": "80g",
+        "price": 129,
+        "cat_ru": "Снеки",
+        "cat_en": "Snacks",
+        "emoji": "🍫",
+        "hot": true,
+        "popular": 89,
+        "image": "",
+        "icon3d": "",
+        "qty": 3
+      }
+    ],
+    "totals": {
+      "itemsTotal": 2968,
+      "deliveryFee": 0,
+      "grandTotal": 2968
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 75
+      },
+      "courier": {
+        "userId": 0,
+        "label": "Dashboard"
+      }
+    }
+  },
+  {
+    "id": "DNMK3UHIBN83BC",
+    "status": "DONE",
+    "createdAt": "2026-01-07T09:57:40.739Z",
+    "updatedAt": "2026-01-07T09:58:03.493Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 2
+      }
+    ],
+    "totals": {
+      "itemsTotal": 218,
+      "deliveryFee": 149,
+      "grandTotal": 367
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 67
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK3UETWE8C52",
+    "status": "CANCELED",
+    "createdAt": "2026-01-07T09:55:35.774Z",
+    "updatedAt": "2026-01-07T09:55:51.296Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 2
+      }
+    ],
+    "totals": {
+      "itemsTotal": 218,
+      "deliveryFee": 149,
+      "grandTotal": 367
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 65
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK3TPOBXF48A",
+    "status": "ACCEPTED",
+    "createdAt": "2026-01-07T09:36:02.157Z",
+    "updatedAt": "2026-01-07T09:36:05.143Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "avocado",
+        "name_ru": "Авокадо Hass",
+        "name_en": "Avocado Hass",
+        "desc_ru": "2 шт",
+        "desc_en": "2 pcs",
+        "price": 199,
+        "cat_ru": "Фрукты",
+        "cat_en": "Fruits",
+        "emoji": "🥑",
+        "hot": true,
+        "popular": 95,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 199,
+      "deliveryFee": 149,
+      "grandTotal": 348
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 63
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK3TABZA50E3",
+    "status": "DONE",
+    "createdAt": "2026-01-07T09:24:06.310Z",
+    "updatedAt": "2026-01-07T09:25:29.344Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {
+      "telegram": {
+        "chatId": -1003638485800,
+        "messageId": 61
+      },
+      "courier": {
+        "userId": 1579820985,
+        "label": "💕 @kutik_abormotik id:1579820985"
+      }
+    }
+  },
+  {
+    "id": "DNMK3T95FUD4D7",
+    "status": "NEW",
+    "createdAt": "2026-01-07T09:23:11.178Z",
+    "updatedAt": "2026-01-07T09:23:11.178Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {}
+  },
+  {
+    "id": "DNMK3T95C66086",
+    "status": "NEW",
+    "createdAt": "2026-01-07T09:23:11.046Z",
+    "updatedAt": "2026-01-07T09:23:11.046Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {}
+  },
+  {
+    "id": "DNMK3T9582D0BA",
+    "status": "NEW",
+    "createdAt": "2026-01-07T09:23:10.898Z",
+    "updatedAt": "2026-01-07T09:23:10.898Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {}
+  },
+  {
+    "id": "DNMK3T8N9M5013",
+    "status": "NEW",
+    "createdAt": "2026-01-07T09:22:47.626Z",
+    "updatedAt": "2026-01-07T09:22:47.626Z",
+    "customer": {
+      "name": "Лаура Алимовна Тлупова",
+      "phone": "+79633939932",
+      "address": "МВД ПО КАБАРДИНО-БАЛКАРСКОЙ РЕСП.",
+      "zoneId": "center",
+      "pay": "card",
+      "comment": "большой пакет"
+    },
+    "items": [
+      {
+        "id": "milk",
+        "name_ru": "Молоко 3.2%",
+        "name_en": "Milk 3.2%",
+        "desc_ru": "1 л, свежее",
+        "desc_en": "1L, fresh",
+        "price": 109,
+        "cat_ru": "Молочка",
+        "cat_en": "Dairy",
+        "emoji": "🥛",
+        "hot": true,
+        "popular": 98,
+        "qty": 1
+      }
+    ],
+    "totals": {
+      "itemsTotal": 109,
+      "deliveryFee": 149,
+      "grandTotal": 258
+    },
+    "meta": {}
+  }
+]

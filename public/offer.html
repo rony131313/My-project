@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Публичная оферта</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="icon" type="image/svg+xml" href="./logo-67.svg" />
+  <script src="./site-config.js"></script>
+  <script>
+    // Подстановка настроек в элементы с data-config
+    document.addEventListener("DOMContentLoaded", () => {
+      const cfg = window.SITE_CONFIG || {};
+      document.querySelectorAll("[data-config]").forEach(el => {
+        const key = el.getAttribute("data-config");
+        if (cfg[key]) el.textContent = cfg[key];
+      });
+      // mailto/tel
+      document.querySelectorAll("[data-config-href]").forEach(el => {
+        const key = el.getAttribute("data-config-href");
+        const val = cfg[key];
+        if (!val) return;
+        if (key === "email") el.setAttribute("href", `mailto:${val}`);
+        if (key === "phone") el.setAttribute("href", `tel:${val.replace(/[^+\d]/g, \"\")}`);
+      });
+    });
+  </script>
+\1
+<body>
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a class="brand" href="./index.html#/">
+        <div class="brand__logo" aria-hidden="true">
+          <img class="brand__logoImg" src="./logo-67.svg" alt="" />
+        </div>
+        <div>
+          <div class="brand__title">67</div>
+          <div class="brand__tag">Доставка продуктов • Быстро • Удобно</div>
+        </div>
+      </a>
+      <div class="topbar__actions">
+        <a class="btn btn--ghost" href="./index.html#/">На главную</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" style="padding: 18px 0 90px;">
+    <section class="panel">
+      <h1 class="h2">Публичная оферта</h1>
+      <div class="p" style="line-height:1.6">
+        
+<p>Ниже — базовая публичная оферта для тестового запуска (без онлайн-оплаты). После регистрации ИП мы обновим реквизиты и раздел оплаты.</p>
+<p><b>1. Термины.</b> «Продавец/Исполнитель» — владелец сайта сервиса «<span data-config="brandName">67</span>». «Покупатель» — пользователь, оформивший заказ. «Товар» — продукты из каталога.</p>
+<p><b>Реквизиты (тестовый запуск).</b> Продавец/Исполнитель: <span data-config="operatorName">ФИО владельца (замени на своё)</span>. Контакт: <a data-config-href="email" href="mailto:support@example.com"><span data-config="email">support@example.com</span></a>.</p>
+<p><b>2. Предмет.</b> Продавец принимает и выполняет заказы на товары и доставку по указанному адресу в пределах зоны обслуживания.</p>
+<p><b>3. Оформление заказа.</b> Покупатель заполняет форму на сайте и подтверждает согласие на обработку персональных данных и принятие условий оферты.</p>
+<p><b>4. Оплата.</b> На этапе тестового запуска возможны способы оплаты: наличными при получении или переводом (по согласованию). Онлайн-оплата будет подключена позднее.</p>
+<p><b>5. Доставка.</b> Стоимость и сроки доставки зависят от зоны. Актуальные условия отображаются при оформлении заказа. Риск случайной гибели товара переходит к Покупателю в момент передачи.</p>
+<p><b>6. Возвраты и отмена.</b> Если вы хотите отменить заказ — сообщите как можно раньше. Для продуктов питания действуют ограничения возврата по закону; если товар ненадлежащего качества — мы заменим или вернём деньги.</p>
+<p><b>7. Ответственность.</b> Стороны несут ответственность в пределах, установленных законодательством РФ. Продавец не отвечает за задержки, вызванные форс-мажором.</p>
+<p><b>8. Контакты.</b> Контактные данные указаны на странице «Контакты».</p>
+<p class="footer__muted" style="margin-top:12px">После регистрации ИП: добавим реквизиты, точные условия оплаты/возвратов и финальную редакцию оферты.</p>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div>
+        <div class="footer__links">
+          <a href="./privacy.html">Политика ПД</a>
+          <a href="./offer.html">Публичная оферта</a>
+          <a href="./contacts.html">Контакты</a>
+        </div>
+        <div class="footer__muted">Доставка продуктов • Быстро • Удобно</div>
+      </div>
+      <div class="footer__muted">© <span id="year"></span></div>
+    </div>
+  </footer>
+  <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
+</body>
+</html>

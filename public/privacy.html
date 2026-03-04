@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Политика обработки персональных данных</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="icon" type="image/svg+xml" href="./logo-67.svg" />
+  <script src="./site-config.js"></script>
+  <script>
+    // Подстановка настроек в элементы с data-config
+    document.addEventListener("DOMContentLoaded", () => {
+      const cfg = window.SITE_CONFIG || {};
+      document.querySelectorAll("[data-config]").forEach(el => {
+        const key = el.getAttribute("data-config");
+        if (cfg[key]) el.textContent = cfg[key];
+      });
+      // mailto/tel
+      document.querySelectorAll("[data-config-href]").forEach(el => {
+        const key = el.getAttribute("data-config-href");
+        const val = cfg[key];
+        if (!val) return;
+        if (key === "email") el.setAttribute("href", `mailto:${val}`);
+        if (key === "phone") el.setAttribute("href", `tel:${val.replace(/[^+\d]/g, \"\")}`);
+      });
+    });
+  </script>
+\1
+<body>
+  <header class="topbar">
+    <div class="container topbar__inner">
+      <a class="brand" href="./index.html#/">
+        <div class="brand__logo" aria-hidden="true">
+          <img class="brand__logoImg" src="./logo-67.svg" alt="" />
+        </div>
+        <div>
+          <div class="brand__title">67</div>
+          <div class="brand__tag">Доставка продуктов • Быстро • Удобно</div>
+        </div>
+      </a>
+      <div class="topbar__actions">
+        <a class="btn btn--ghost" href="./index.html#/">На главную</a>
+      </div>
+    </div>
+  </header>
+
+  <main class="container" style="padding: 18px 0 90px;">
+    <section class="panel">
+      <h1 class="h2">Политика обработки персональных данных</h1>
+      <p class="footer__muted">Контакт для обращений по персональным данным: <a data-config-href="email" href="mailto:support@example.com"><span data-config="email">support@example.com</span></a></p>
+      <div class="p" style="line-height:1.6">
+        
+<p><b>Кто мы.</b> Настоящая политика описывает, как мы обрабатываем персональные данные пользователей сайта сервиса доставки продуктов «<span data-config="brandName">67</span>».</p>
+<p><b>Какие данные мы собираем.</b> При оформлении заказа и обращении в поддержку мы можем получать: имя, номер телефона, адрес доставки, комментарий к заказу; а также технические данные (IP-адрес, cookie, сведения о браузере), которые передаются автоматически.</p>
+<p><b>Цели обработки.</b> Обработка заказа, связь по заказу, доставка, ответы на обращения, улучшение работы сайта и предотвращение злоупотреблений.</p>
+<p><b>Правовое основание.</b> Согласие пользователя (галочка при оформлении заказа) и необходимость исполнения договора/оферты (оформление и выполнение заказа).</p>
+<p><b>Кому можем передавать.</b> Курьеру/службе доставки (для выполнения доставки), партнёрам, которые участвуют в выполнении заказа (например, поставщик), а также хостинг-провайдеру и подрядчикам, обеспечивающим работу сайта. Банковские данные карты мы не храним — при онлайн-оплате их обрабатывает платёжный сервис.</p>
+<p><b>Срок хранения.</b> Храним данные столько, сколько необходимо для целей обработки и исполнения требований законодательства (например, по учёту заказов), либо до отзыва согласия, если хранение не требуется по закону.</p>
+<p><b>Как отозвать согласие/удалить данные.</b> Напишите нам на email из раздела «Контакты» — мы ответим и выполним запрос в разумный срок, если нет законных оснований продолжать хранение.</p>
+<p><b>Cookies.</b> Сайт может использовать технические cookie, необходимые для работы. Если мы подключим аналитику/рекламу — появится отдельное уведомление/настройки.</p>
+<p><b>Безопасность.</b> Мы применяем разумные организационные и технические меры для защиты данных (HTTPS, ограничение доступа, обновления).</p>
+<p><b>Обновления.</b> Политика может обновляться. Актуальная версия всегда размещена на этой странице.</p>
+<p class="footer__muted" style="margin-top:12px">Дата обновления: 03.03.2026</p>
+
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer__inner">
+      <div>
+        <div class="footer__links">
+          <a href="./privacy.html">Политика ПД</a>
+          <a href="./offer.html">Публичная оферта</a>
+          <a href="./contacts.html">Контакты</a>
+        </div>
+        <div class="footer__muted">Доставка продуктов • Быстро • Удобно</div>
+      </div>
+      <div class="footer__muted">© <span id="year"></span></div>
+    </div>
+  </footer>
+  <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
+</body>
+</html>

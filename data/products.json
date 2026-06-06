@@ -11,7 +11,7 @@
     "emoji": "🥛",
     "hot": true,
     "popular": 98,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761820/milk_ajboz8.jpg",
     "icon3d": ""
   },
   {
@@ -26,7 +26,7 @@
     "emoji": "🧴",
     "hot": false,
     "popular": 78,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761820/kefir_fgjivz.webp",
     "icon3d": ""
   },
   {
@@ -41,7 +41,22 @@
     "emoji": "🧀",
     "hot": true,
     "popular": 88,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761822/cheese_v09wny.webp",
+    "icon3d": ""
+  },
+  {
+    "id": "egg",
+    "name_ru": "Яйца",
+    "name_en": "Eggs",
+    "desc_ru": "10 шт",
+    "desc_en": "10 pcs",
+    "price": 119,
+    "cat_ru": "Молочка",
+    "cat_en": "Dairy",
+    "emoji": "🥚",
+    "hot": false,
+    "popular": 85,
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761821/egg_agioa1.webp",
     "icon3d": ""
   },
   {
@@ -56,7 +71,7 @@
     "emoji": "🍞",
     "hot": false,
     "popular": 90,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761820/bread_cexh1g.webp",
     "icon3d": ""
   },
   {
@@ -71,7 +86,7 @@
     "emoji": "🥐",
     "hot": true,
     "popular": 84,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761821/croissant_zw3veu.webp",
     "icon3d": ""
   },
   {
@@ -86,7 +101,7 @@
     "emoji": "🥑",
     "hot": true,
     "popular": 95,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761823/avocado_hwnzet.webp",
     "icon3d": ""
   },
   {
@@ -101,7 +116,7 @@
     "emoji": "🍌",
     "hot": false,
     "popular": 80,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761823/banana_ef13qr.webp",
     "icon3d": ""
   },
   {
@@ -116,7 +131,7 @@
     "emoji": "🍏",
     "hot": false,
     "popular": 76,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761824/apple_irwowg.webp",
     "icon3d": ""
   },
   {
@@ -131,7 +146,7 @@
     "emoji": "🍅",
     "hot": false,
     "popular": 83,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761820/tomato_x4nj5k.webp",
     "icon3d": ""
   },
   {
@@ -146,7 +161,7 @@
     "emoji": "🥒",
     "hot": false,
     "popular": 79,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761820/cucumber_mrdaja.webp",
     "icon3d": ""
   },
   {
@@ -161,7 +176,7 @@
     "emoji": "🥤",
     "hot": true,
     "popular": 86,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761821/cola_ea9pig.jpg",
     "icon3d": ""
   },
   {
@@ -176,7 +191,7 @@
     "emoji": "💧",
     "hot": false,
     "popular": 72,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761822/water_gfi1pn.webp",
     "icon3d": ""
   },
   {
@@ -191,7 +206,7 @@
     "emoji": "🍟",
     "hot": true,
     "popular": 92,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761822/chips_jjchbo.jpg",
     "icon3d": ""
   },
   {
@@ -206,7 +221,7 @@
     "emoji": "🍫",
     "hot": true,
     "popular": 89,
-    "image": "",
+    "image": "https://res.cloudinary.com/dviuhlukl/image/upload/v1780761823/choco_cgkyt9.jpg",
     "icon3d": ""
   }
 ]
